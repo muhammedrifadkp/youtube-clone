@@ -371,6 +371,7 @@ cd frontend && npm test
 cd backend && npm test
 ```
 
+
 The test suite verifies:
 - ✅ File structure and dependencies
 - ✅ Backend API endpoints
@@ -379,7 +380,8 @@ The test suite verifies:
 - ✅ UI/UX authenticity
 - ✅ Integration between frontend and backend
 
----
+-----
+
 
 ## 📚 **Documentation**
 
