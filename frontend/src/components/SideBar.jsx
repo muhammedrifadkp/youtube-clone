@@ -30,13 +30,15 @@ import {
     Podcast
 } from '@mui/icons-material';
 import { Link, useLocation } from 'react-router-dom';
-import { useAuth } from '../contexts/AuthContext';
+// import { useAuth } from '../contexts/AuthContext';
 
 const DRAWER_WIDTH = 240;
 const MINI_DRAWER_WIDTH = 72;
 
-const Sidebar = ({ open }) => {
-    const { isAuthenticated, user } = useAuth();
+const SideBar = ({ open = true }) => {
+    // For now, we'll use mock authentication state until contexts are properly set up
+    const isAuthenticated = false;
+    const user = null;
     const location = useLocation();
 
     const mainItems = [
@@ -261,4 +263,4 @@ const Sidebar = ({ open }) => {
     );
 };
 
-export default Sidebar;
+export default SideBar;

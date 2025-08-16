@@ -7,7 +7,7 @@ import { VideoProvider } from './contexts/VideoContext';
 
 // Components
 import Navbar from './components/Navbar';
-import Sidebar from './components/Sidebar';
+import Sidebar from './components/SideBar';
 import Feed from './components/Feed';
 import Video from './components/Video';
 import Channel from './components/Channel';
