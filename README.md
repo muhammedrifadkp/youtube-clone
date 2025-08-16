@@ -328,13 +328,11 @@ MAX_FILE_SIZE=100000000
 # CORS Configuration
 FRONTEND_URL=http://localhost:3000
 ```
-
 ### **Frontend Environment (.env)**
 ```env
 REACT_APP_API_URL=http://localhost:5000/api
 REACT_APP_BACKEND_URL=http://localhost:5000
 ```
-
 ---
 
 ## 🎯 **What You Get**
@@ -360,7 +358,7 @@ REACT_APP_BACKEND_URL=http://localhost:5000
 - ✅ **Performance** - Optimized queries, efficient data loading
 - ✅ **Documentation** - Comprehensive setup guides and API docs
 
----
+-----
 
 ## 🧪 **Testing**
 
