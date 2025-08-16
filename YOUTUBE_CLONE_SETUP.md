@@ -1,6 +1,9 @@
 # 🎥 YouTube Clone - Complete Setup Guide
 
+
 ## 🎯 **Project Overview**
+
+
 
 This is a complete YouTube clone with:
 - **Exact YouTube UI/UX** - Dark theme, responsive design, authentic styling
@@ -11,6 +14,9 @@ This is a complete YouTube clone with:
 - **Real-time Features** - Search, categories, user interactions
 
 ---
+
+
+
 
 ## 🚀 **Quick Start (5 Minutes)**
 

@@ -2,9 +2,13 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
+
+
 // Configuration
 const BACKEND_URL = 'http://localhost:5000';
 const FRONTEND_URL = 'http://localhost:3000';
+
+
 
 // Test results
 let passed = 0;

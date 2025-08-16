@@ -15,6 +15,8 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Install MongoDB
 
+
+
 Download and install MongoDB Community Server from the official website.
 
 **Windows:**

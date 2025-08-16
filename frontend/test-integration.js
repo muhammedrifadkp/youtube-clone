@@ -6,6 +6,8 @@ const path = require('path');
 const BACKEND_URL = 'http://localhost:5000';
 const FRONTEND_URL = 'http://localhost:3000';
 
+
+
 // Test results tracking
 const testResults = {
   passed: 0,
