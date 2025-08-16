@@ -424,12 +424,10 @@ If you have any questions or need help with setup:
 
 1. **Check the documentation** - [YOUTUBE_CLONE_SETUP.md](YOUTUBE_CLONE_SETUP.md)
 2. **Run the test suite** - `npm test`
-3. **Open an issue** - [GitHub Issues](https://github.com/your-username/youtube-clone/issues)
+3. **Open an issue** - [GitHub Issues](https://github.com/muhammedrifadkp/youtube-clone/issues)
 4. **Contact** - your.email@example.com
 
 ---
 
 **🌟 If you found this project helpful, please give it a star! ⭐**
-
 **🎉 Enjoy your YouTube clone with exact UI/UX and complete functionality!**
-
